@@ -49,13 +49,13 @@ __English, B2__
 - Development projects on Arduino wiring (C++ dialect)
 - С++ basics
 ##### Portfolio
-[API testing](https://github.com/zhenyka9696/Postman)
-[Performance testing](https://github.com/zhenyka9696/Release_API_v1.0.1._24.07.2022)
-[Unit testing selenium java](https://github.com/zhenyka9696/Selenium_iStock)
-[Integration testing java](https://github.com/zhenyka9696/Music_shop_v1.2.0_22.08.2022)
-[Manual testing](https://github.com/zhenyka9696/AliExpress_manual_testing)
-[Mocha&Chai JS testing](https://github.com/zhenyka9696/Mocha_Chai)
-[Mocha&Chai JS testing 2](https://github.com/zhenyka9696/MochaChai_testing_javascript)
+[API testing](https://github.com/zhenyka9696/Postman)<br />
+[Performance testing](https://github.com/zhenyka9696/Release_API_v1.0.1._24.07.2022)<br />
+[Unit testing selenium java](https://github.com/zhenyka9696/Selenium_iStock)<br />
+[Integration testing java](https://github.com/zhenyka9696/Music_shop_v1.2.0_22.08.2022)<br />
+[Manual testing](https://github.com/zhenyka9696/AliExpress_manual_testing)<br />
+[Mocha&Chai JS testing](https://github.com/zhenyka9696/Mocha_Chai)<br />
+[Mocha&Chai JS testing 2](https://github.com/zhenyka9696/MochaChai_testing_javascript)<br />
 ***
 # Professional Summary
 - Preparation of documents and product samples for certification and testing;
