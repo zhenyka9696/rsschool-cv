@@ -1,7 +1,7 @@
 #####  Evgeniy Prokhorov
 
 [![ВКонтакте](CV0.png)](https://vk.com/evgeniy_prokhorov) 
-
+<br />
 <img src="linkedin.svg" href=https://www.linkedin.com/in/evgeniy-prokhorov-8b3b64249/ alt="linkedin" style="width:50px;"/> [https://www.linkedin.com/in/evgeniy-prokhorov-8b3b64249/](https://www.linkedin.com/in/evgeniy-prokhorov-8b3b64249/)
 
 <img src="location.ico" style="width:50px;"> Vitebsk, Belarus
@@ -13,7 +13,7 @@
 <img src="github.svg" style="width:45px;">  [https://github.com/zhenyka9696](https://github.com/zhenyka9696) 
 
 ***
-
+<br />
 #####Education
 
 Vitebsk State Technological University, 2014-2019
