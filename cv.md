@@ -1,12 +1,21 @@
 #####  Evgeniy Prokhorov
+
 [![ВКонтакте](CV0.png)](https://vk.com/evgeniy_prokhorov) 
+
 <img src="linkedin.svg" href=https://www.linkedin.com/in/evgeniy-prokhorov-8b3b64249/ alt="linkedin" style="width:50px;"/> [https://www.linkedin.com/in/evgeniy-prokhorov-8b3b64249/](https://www.linkedin.com/in/evgeniy-prokhorov-8b3b64249/)
+
 <img src="location.ico" style="width:50px;"> Vitebsk, Belarus
+
 <img src="email.svg" style="width:50px;"> evgene199638@gmail.com
+
 <img src="discord.svg" style="width:45px;">  [ghosthunter#9760](https://discordapp.com/users/889365340344156170/) 
+
 <img src="github.svg" style="width:45px;">  [https://github.com/zhenyka9696](https://github.com/zhenyka9696) 
+
 ***
+
 #####Education
+
 Vitebsk State Technological University, 2014-2019
 __Bachelor's Degree in Methrology,standartization,sertification is Engeneer__
 Step Computer Academy, 2021-2022
