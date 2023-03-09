@@ -13,9 +13,7 @@
 <img src="github.svg" style="width:45px;">  [https://github.com/zhenyka9696](https://github.com/zhenyka9696) 
 
 ***
-<br />
-#####Education
-
+##### Education
 Vitebsk State Technological University, 2014-2019
 __Bachelor's Degree in Methrology,standartization,sertification is Engeneer__
 Step Computer Academy, 2021-2022
@@ -25,13 +23,13 @@ __Engeneer of standartization and sertification, JSC"Invet"(2019-2021),"Etalon"(
 Languages
 __English, B2__
 ***
-####Skills
-#####Soft skills
+#### Skills
+##### Soft skills
 - Ability to work as a part of team
 - Responsible attention to important details
 - Time management
 - Resourceful
-#####Manual testing
+##### Manual testing
 - Git,GitHub, GitBash
 - Relational databases: MySQL,SQLite,PostgreSQL
 - Web: HTML/CSS/JS
@@ -39,18 +37,18 @@ __English, B2__
 - Bug Tracking Systems:Jira,TestRail
 - Perfomance testing: Apache JMeter
 - Siffers: Charles, Fiddler
-#####Automated Testing
+##### Automated Testing
 - Languages: Java, JavaScript
 - Java Testing: JUnit, TestNG
 - Unit Testing: Selenium
 - JS Testing: Mocha, Chai
 - Shell Scripting: Windows,Linux
-#####Additional Skills
+##### Additional Skills
 - Maven (experience of using in automated testing)
 - Node.js (experience of using in creation local web server with JSON database)
 - Development projects on Arduino wiring (C++ dialect)
 - С++ basics
-#####Portfolio
+##### Portfolio
 [API testing](https://github.com/zhenyka9696/Postman)
 [Performance testing](https://github.com/zhenyka9696/Release_API_v1.0.1._24.07.2022)
 [Unit testing selenium java](https://github.com/zhenyka9696/Selenium_iStock)
