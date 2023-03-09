@@ -57,7 +57,7 @@ __English, B2__
 [Mocha&Chai JS testing](https://github.com/zhenyka9696/Mocha_Chai)
 [Mocha&Chai JS testing 2](https://github.com/zhenyka9696/MochaChai_testing_javascript)
 ***
-#Professional Summary
+# Professional Summary
 - Preparation of documents and product samples for certification and testing;
 - Normative control of technical documentation;
 - Making changes to the design and technological documentation, material consumption rate;
